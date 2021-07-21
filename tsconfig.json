@@ -1,5 +1,6 @@
 {
     "compilerOptions": {
+        "types": ["node"],
         "lib": [
             "ES5",
             "ES6"

@@ -66,6 +66,7 @@ yarn.lock
 
 mix-manifest.json
 
+public/javascripts/**/*
 public/javascripts/js/**/*
 public/javascripts/components/**/*
 public/javascripts/lib/**/*
