@@ -27,7 +27,7 @@ app.use(loggingMiddleware);
         .then(() => {
             console.log('Sequelize connected to db.');
         })
-        .catch(err => {
+        .catch((err : any) => {
             console.log('Error, Sequelize cannot connect to db, err: ', err);
             
         })
