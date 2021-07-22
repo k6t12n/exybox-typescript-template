@@ -86,8 +86,6 @@ dist/
 *firebase*.json
 mail-config.json
 
-*archineer*.json
-
 *google*.json
 
 ormconfig.json
